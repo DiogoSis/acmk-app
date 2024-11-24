@@ -7,17 +7,17 @@
     "android": {
       "release": {
         "distribution": "store"
+      },
+      "development": {
+        "developmentClient": true,
+        "distribution": "internal"
+      },
+      "preview": {
+        "distribution": "internal"
+      },
+      "production": {
+        "autoIncrement": true
       }
-    },
-    "development": {
-      "developmentClient": true,
-      "distribution": "internal"
-    },
-    "preview": {
-      "distribution": "internal"
-    },
-    "production": {
-      "autoIncrement": true
     }
   },
   "submit": {
