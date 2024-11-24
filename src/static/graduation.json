@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "name": "Branca",
+        "description": "A faixa branca simboliza o início da jornada no karatê. O aluno ainda não possui conhecimento das técnicas, mas está pronto para aprender e absorver os ensinamentos do dojo. Representa a pureza e a mente aberta para o aprendizado.",
+        "kata": [1],
+        "defense": [1, 2],
+        "blows": [1, 2, 3],
+        "base": [1, 2, 9, 10],
+        "color": "#FFFFFF"
+    },
+    {
+        "id": 2,
+        "name": "Amarela",
+        "description": "Na faixa amarela, o praticante começa a aprender as técnicas básicas, como posturas e ataques. Representa o início do crescimento e a absorção de conhecimento, simbolizando o sol nascente.",
+        "kata": [2],
+        "defense": [3, 4, 5, 6],
+        "blows": [4, 5],
+        "base": [7],
+        "color": "#FFFF00"
+    },
+    {
+        "id": 3,
+        "name": "Vermelha",
+        "description": "A faixa vermelha é um estágio em que o aluno já compreende as técnicas básicas e está se aprimorando. Representa a energia e o poder que começam a surgir à medida que o praticante avança.",
+        "kata": [3],
+        "defense": [],
+        "blows": [],
+        "base": [3],
+        "color": "#FE0000"
+    },
+    {
+        "id": 4,
+        "name": "Laranja",
+        "description": "A faixa laranja representa o amadurecimento do praticante. O aluno começa a refinar suas técnicas, com maior controle e aplicação dos fundamentos, enquanto a compreensão do espírito do karatê se aprofunda.",
+        "kata": [4],
+        "defense": [7],
+        "blows": [],
+        "base": [4],
+        "color": "#FE9900"
+    },
+    {
+        "id": 5,
+        "name": "Verde",
+        "description": "Nesta fase, o aluno desenvolve um entendimento mais profundo das formas e técnicas do karatê. A faixa verde simboliza o crescimento contínuo e a evolução constante do praticante.",
+        "kata": [5, 6, 7],
+        "defense": [8],
+        "blows": [6],
+        "base": [8],
+        "color": "#329900"
+    },
+    {
+        "id": 6,
+        "name": "Roxa",
+        "description": "A faixa roxa reflete o avanço técnico do aluno. O praticante começa a combinar técnicas com fluidez e a aumentar sua resistência e precisão nos movimentos, simbolizando o amadurecimento contínuo.",
+        "kata": [8, 9, 10],
+        "defense": [9],
+        "blows": [7, 9],
+        "base": [5],
+        "color": "#650164"
+    },
+    {
+        "id": 7,
+        "name": "Marron",
+        "description": "A faixa marrom é um estágio avançado onde o aluno começa a aperfeiçoar suas habilidades e a compreender as complexidades das técnicas. Representa a força, sabedoria e o desenvolvimento de um guerreiro.",
+        "kata": [11, 12],
+        "defense": [10],
+        "blows": [8, 10],
+        "base": [6],
+        "color": "#653300"
+    },
+    {
+        "id": 8,
+        "name": "Preta 1º Dan",
+        "description": "A faixa preta de 1º Dan marca a maestria básica das técnicas do karatê. O aluno agora possui uma compreensão sólida e começa a aprender com mais profundidade sobre a filosofia e o espírito da arte marcial. A jornada de aprendizado continua, agora com mais responsabilidade e maior controle.",
+        "kata": [13, 14, 15, 16],
+        "defense": [],
+        "blows": [],
+        "base": [],
+        "color": "#000000"
+    },
+    {
+        "id": 9,
+        "name": "Preta 2º Dan",
+        "description": "A faixa preta de 2º Dan é um marco na jornada do karateca. Representa o contínuo crescimento, aprimoramento das técnicas e domínio ainda mais profundo. Aqui, o praticante assume um papel mais ativo como mentor e modelo para outros alunos.",
+        "kata": [17],
+        "defense": [],
+        "blows": [],
+        "base": [],
+        "color": "#000000"
+    },
+    {
+        "id": 10,
+        "name": "Preta 3º Dan",
+        "description": "O 3º Dan é um grau avançado, onde o praticante não apenas possui excelência técnica, mas também uma compreensão profunda da filosofia do karatê. A faixa preta de 3º Dan exige dedicação constante e o compromisso de transmitir o conhecimento aprendido.",
+        "kata": [],
+        "defense": [],
+        "blows": [],
+        "base": [],
+        "color": "#000000"
+    },
+    {
+        "id": 11,
+        "name": "Preta 4º Dan",
+        "description": "No 4º Dan, o praticante já alcançou um alto nível de sabedoria e habilidades técnicas. Este grau é um reconhecimento de seu papel como instrutor de alto nível e como líder no dojo.",
+        "kata": [],
+        "defense": [],
+        "blows": [],
+        "base": [],
+        "color": "#000000"
+    },
+    {
+        "id": 12,
+        "name": "Preta 5º Dan",
+        "description": "A faixa preta de 5º Dan é alcançada por aqueles que possuem um entendimento completo da técnica e filosofia do karatê. O praticante, agora, atua de forma exemplar em todas as áreas da arte marcial.",
+        "kata": [],
+        "defense": [],
+        "blows": [],
+        "base": [],
+        "color": "#000000"
+    },
+    {
+        "id": 13,
+        "name": "Preta 6º Dan",
+        "description": "O 6º Dan é um grau elevado, normalmente obtido por karatecas com uma longa experiência e com vasto conhecimento que transcende as técnicas e se aprofunda em aspectos filosóficos e de liderança no karatê.",
+        "kata": [],
+        "defense": [],
+        "blows": [],
+        "base": [],
+        "color": "#000000"
+    },
+    {
+        "id": 14,
+        "name": "Preta 7º Dan",
+        "description": "A faixa preta de 7º Dan simboliza o reconhecimento de um grande mestre, que é um exemplo vivo da arte marcial. Este grau é para aqueles que possuem uma contribuição significativa para o karatê e continuam a influenciar a evolução da prática.",
+        "kata": [],
+        "defense": [],
+        "blows": [],
+        "base": [],
+        "color": "#000000"
+    },
+    {
+        "id": 15,
+        "name": "Preta 8º Dan",
+        "description": "Com 8º Dan, o karateca alcança um status de mestre de mais alto nível. Este grau é reservado para aqueles que dedicaram sua vida ao karatê e continuam a preservar e transmitir a arte marcial em sua forma mais pura.",
+        "kata": [],
+        "defense": [],
+        "blows": [],
+        "base": [],
+        "color": "#000000"
+    },
+    {
+        "id": 16,
+        "name": "Preta 9º Dan",
+        "description": "O 9º Dan é raramente alcançado e representa o mais alto grau no karatê, reconhecendo um mestre cuja compreensão da arte marcial é absoluta. Esses mestres têm uma grande influência no desenvolvimento do karatê a nível global.",
+        "kata": [],
+        "defense": [],
+        "blows": [],
+        "base": [],
+        "color": "#000000"
+    },
+    {
+        "id": 17,
+        "name": "Preta 10º Dan",
+        "description": "O 10º Dan é o grau supremo no karatê, concedido apenas a mestres que dedicaram suas vidas inteiras à arte marcial. Ele simboliza a perfeição e a realização completa do caminho do karatê, sendo um título excepcional e honorífico.",
+        "kata": [],
+        "defense": [],
+        "blows": [],
+        "base": [],
+        "color": "#000000"
+    }
+]

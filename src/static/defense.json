@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Gedan-barai",
+        "translation": "Bloqueio Inferior",
+        "description": "Um bloqueio de baixo para cima, usado para desviar ataques direcionados à parte inferior do corpo, como socos ou chutes baixos.",
+        "graduation": 1
+    },
+    {
+        "id": 2,
+        "name": "Chudan-uke",
+        "translation": "Bloqueio Médio",
+        "description": "Bloqueio horizontal no nível médio do corpo, geralmente para desviar socos ou ataques na altura do peito.",
+        "graduation": 1
+    },
+    {
+        "id": 3,
+        "name": "Jodan-uke",
+        "translation": "Bloqueio Superior",
+        "description": "Bloqueio para proteger a cabeça ou a parte superior do corpo contra ataques como socos ou golpes altos.",
+        "graduation": 2
+    },
+    {
+        "id": 4,
+        "name": "Age-uke",
+        "translation": "Bloqueio Ascendente",
+        "description": "Bloqueio de baixo para cima, usado para proteger o rosto ou a cabeça de ataques de cima para baixo.",
+        "graduation": 2
+    },
+    {
+        "id": 5,
+        "name": "Soto-uke",
+        "translation": "Bloqueio Externo",
+        "description": "Bloqueio para defender-se de ataques laterais, movendo o braço de fora para dentro, geralmente contra socos ou ataques direcionados ao lado do corpo.",
+        "graduation": 2
+    },
+    {
+        "id": 6,
+        "name": "Uchi-uke",
+        "translation": "Bloqueio Interno",
+        "description": "Bloqueio realizado com o braço em movimento de dentro para fora, muitas vezes usado para desviar de socos que vêm de frente.",
+        "graduation": 2
+    },
+    {
+        "id": 7,
+        "name": "Morote-uke",
+        "translation": "Bloqueio Duplo",
+        "description": "Bloqueio mais forte, com ambas as mãos unidas para bloquear ataques poderosos, geralmente direcionados ao corpo.",
+        "graduation": 4
+    },
+    {
+        "id": 8,
+        "name": "Kake-uke",
+        "translation": "Bloqueio em Gancho",
+        "description": "Bloqueio realizado com um movimento de gancho, usando a parte interna do braço para desviar ou desarmar ataques rápidos.",
+        "graduation": 5
+    },
+    {
+        "id": 9,
+        "name": "Tegatana-uke",
+        "translation": "Bloqueio com a Lâmina da Mão",
+        "description": "Bloqueio que utiliza a parte interna da mão (lâmina) para defender-se de socos ou golpes rápidos.",
+        "graduation": 6
+    },
+    {
+        "id": 10,
+        "name": "Nukite",
+        "translation": "Bloqueio de Ponta de Dedo",
+        "description": "Técnica de bloqueio ou ataque onde a ponta dos dedos é usada para desviar um golpe ou atacar um ponto específico do corpo.",
+        "graduation": 7
+    }
+]

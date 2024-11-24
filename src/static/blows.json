@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Oizuki",
+        "translation": "Soco Avançado",
+        "description": "Soco direto, avançando com a perna da frente, geralmente direcionado ao rosto ou ao tronco do adversário.",
+        "graduation": 1
+    },
+    {
+        "id": 2,
+        "name": "Gyaku-zuki",
+        "translation": "Soco Reverso",
+        "description": "Soco forte realizado com a mão oposta à perna à frente, normalmente direcionado ao tronco ou rosto do oponente.",
+        "graduation": 1
+    },
+    {
+        "id": 3,
+        "name": "Kizami-zuki",
+        "translation": "Soco Cortante",
+        "description": "Soco rápido e curto executado com a mão da frente, geralmente utilizado em combinações de golpes rápidos.",
+        "graduation": 1
+    },
+    {
+        "id": 4,
+        "name": "Mawashi-geri",
+        "translation": "Chute Circular",
+        "description": "Chute executado de forma circular, atingindo a cabeça ou o tronco, com a perna da frente ou de trás.",
+        "graduation": 2
+    },
+    {
+        "id": 5,
+        "name": "Mae-geri",
+        "translation": "Chute Frontal",
+        "description": "Chute reto realizado com a perna da frente, com o objetivo de atingir o estômago ou o rosto do adversário.",
+        "graduation": 2
+    },
+    {
+        "id": 6,
+        "name": "Yoko-geri",
+        "translation": "Chute Lateral",
+        "description": "Chute lateral executado com a perna esticada, direcionado ao tronco ou à cabeça do adversário.",
+        "graduation": 5
+    },
+    {
+        "id": 7,
+        "name": "Ura-mawashi-geri",
+        "translation": "Chute Circular Reverso",
+        "description": "Chute circular reverso que gira para atingir o alvo na direção oposta ao chute tradicional, mais complexo e eficaz em combate.",
+        "graduation": 6
+    },
+    {
+        "id": 8,
+        "name": "Fumikomi-geri",
+        "translation": "Chute de Pisada",
+        "description": "Chute forte e agressivo, utilizado para quebrar a defesa do adversário, com a intenção de atingir o chão com o calcanhar.",
+        "graduation": 7
+    },
+    {
+        "id": 9,
+        "name": "Tetsui-uchi",
+        "translation": "Soco com o Punho em Martelo",
+        "description": "Ataque com o punho fechado, mas com a parte inferior da mão (dedos voltados para cima), utilizado para atingir a cabeça ou a parte superior do corpo.",
+        "graduation": 6
+    },
+    {
+        "id": 10,
+        "name": "Haito-uchi",
+        "translation": "Soco de Lado com a Lâmina da Mão",
+        "description": "Soco com a lâmina da mão (lado da mão) direcionado ao pescoço ou face do adversário.",
+        "graduation": 7
+    }
+]

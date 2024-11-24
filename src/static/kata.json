@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "name": "Heian Shodan",
+        "translation": "Primeiro Passo da Paz",
+        "meaning": "Introdução aos katas de Shotokan, enfatizando equilíbrio e controle.",
+        "graduation": 1,
+        "movement": 21
+    },
+    {
+        "id": 2,
+        "name": "Heian Nidan",
+        "translation": "Segundo Passo da Paz",
+        "meaning": "Desenvolvimento de técnicas e foco no controle de ataque e defesa.",
+        "graduation": 2,
+        "movement": 26
+    },
+    {
+        "id": 3,
+        "name": "Heian Sandan",
+        "translation": "Terceiro Passo da Paz",
+        "meaning": "Aprimoramento de formas e combinações, promovendo maior fluidez nos movimentos.",
+        "graduation": 3,
+        "movement": 27
+    },
+    {
+        "id": 4,
+        "name": "Heian Yondan",
+        "translation": "Quarto Passo da Paz",
+        "meaning": "Kata mais avançado, com foco em defesa e contra-ataques.",
+        "graduation": 4,
+        "movement": 29
+    },
+    {
+        "id": 5,
+        "name": "Heian Godan",
+        "translation": "Quinto Passo da Paz",
+        "meaning": "Kata avançado, incorporando mais fluidez nos movimentos e controle das energias.",
+        "graduation": 5,
+        "movement": 31
+    },
+    {
+        "id": 6,
+        "name": "Tekki Shodan",
+        "translation": "Primeiro Passo de Cavalo",
+        "meaning": "Foco nas posturas fortes, aumentando a estabilidade e o controle da base.",
+        "graduation": 5,
+        "movement": 20
+    },
+    {
+        "id": 7,
+        "name": "Tekki Nidan",
+        "translation": "Segundo Passo de Cavalo",
+        "meaning": "Desenvolvimento das posturas de cavalo e maior controle de ataques laterais.",
+        "graduation": 5,
+        "movement": 23
+    },
+    {
+        "id": 8,
+        "name": "Tekki Sandan",
+        "translation": "Terceiro Passo de Cavalo",
+        "meaning": "Mais complexo, com foco em velocidade e poder nas posturas de cavalo.",
+        "graduation": 6,
+        "movement": 26
+    },
+    {
+        "id": 9,
+        "name": "Bassai Dai",
+        "translation": "Expulsar o inimigo",
+        "meaning": "Kata de defesa contra ataques, com ênfase na força e nas técnicas de defesa poderosas.",
+        "graduation": 6,
+        "movement": 57
+    },
+    {
+        "id": 10,
+        "name": "Kanku Dai",
+        "translation": "Olhar para o céu",
+        "meaning": "Desenvolve a flexibilidade e força, com uma série de técnicas de ataque e defesa.",
+        "graduation": 6,
+        "movement": 65
+    },
+    {
+        "id": 11,
+        "name": "Jion",
+        "translation": "Amor e Gratidão",
+        "meaning": "Kata de base sólida e postura forte, com foco na defesa contra ataques poderosos.",
+        "graduation": 7,
+        "movement": 47
+    },
+    {
+        "id": 12,
+        "name": "Enpi",
+        "translation": "Voo da Andorinha",
+        "meaning": "Kata rápido e ágil, representando o movimento leve e rápido da andorinha.",
+        "graduation": 7,
+        "movement": 37
+    },
+    {
+        "id": 13,
+        "name": "Gankaku",
+        "translation": "Grou sobre a Rocha",
+        "meaning": "Envolve posturas em uma perna, representando a visão equilibrada de um grou.",
+        "graduation": 8,
+        "movement": 42
+    },
+    {
+        "id": 14,
+        "name": "Gojushiho Sho",
+        "translation": "Cinquenta e Quatro Passos (versão curta)",
+        "meaning": "Versão mais curta de Gojushiho Dai, com movimentos complexos e rápidos.",
+        "graduation": 8,
+        "movement": 50
+    },
+    {
+        "id": 15,
+        "name": "Jitte",
+        "translation": "Dez Dedos",
+        "meaning": "Kata focado em defesa e controle, com técnicas de poder concentrado.",
+        "graduation": 8,
+        "movement": 41
+    },
+    {
+        "id": 16,
+        "name": "Nijushiho",
+        "translation": "Vinte e Quatro Passos",
+        "meaning": "Kata avançado com técnicas de ataque e defesa de grande intensidade.",
+        "graduation": 8,
+        "movement": 48
+    },
+    {
+        "id": 17,
+        "name": "Gojushiho Dai",
+        "translation": "Cinquenta e Quatro Passos (versão longa)",
+        "meaning": "Versão mais longa de Gojushiho Sho, com técnicas sofisticadas e difíceis.",
+        "graduation": 9,
+        "movement": 60
+    },
+    {
+        "id": 18,
+        "name": "Sochin",
+        "translation": "Força Interior",
+        "meaning": "Kata de força e estabilidade, com foco na postura sólida e poder concentrado.",
+        "graduation": 9,
+        "movement": 39
+    },
+    {
+        "id": 19,
+        "name": "Meikyo",
+        "translation": "Espelho Brilhante",
+        "meaning": "Kata que desenvolve técnica e equilíbrio, representando a clareza e a calma interior.",
+        "graduation": 9,
+        "movement": 41
+    },
+    {
+        "id": 20,
+        "name": "Unsu",
+        "translation": "Mãos e Nuvens",
+        "meaning": "Kata com movimentos diversos e complexos, representando a luta contra inimigos em várias direções.",
+        "graduation": 9,
+        "movement": 48
+    },
+    {
+        "id": 21,
+        "name": "Jiin",
+        "translation": "Terra Serena",
+        "meaning": "Kata avançado que combina defesa e contra-ataque com posturas firmes.",
+        "graduation": 10,
+        "movement": 45
+    },
+    {
+        "id": 22,
+        "name": "Chinte",
+        "translation": "Mãos Completas",
+        "meaning": "Kata que combina força e flexibilidade, representando equilíbrio e precisão.",
+        "graduation": 10,
+        "movement": 47
+    },
+    {
+        "id": 23,
+        "name": "Wankan",
+        "translation": "Coroa Real",
+        "meaning": "Kata com técnicas de ataque e defesa complexas, simbolizando força e honra.",
+        "graduation": 10,
+        "movement": 42
+    }
+]

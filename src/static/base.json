@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Zenkutsu-dachi",
+        "translation": "Postura de Avanço",
+        "description": "Uma postura forte e profunda, com a perna dianteira flexionada e a traseira esticada, proporcionando estabilidade e força.",
+        "graduation": 1
+    },
+    {
+        "id": 2,
+        "name": "Kokutsu-dachi",
+        "translation": "Postura de Retaguarda",
+        "description": "Postura de defesa com a perna traseira mais flexionada e o peso do corpo concentrado nela, usada para bloquear e atacar.",
+        "graduation": 1
+    },
+    {
+        "id": 3,
+        "name": "Kiba-dachi",
+        "translation": "Postura de Cavalo",
+        "description": "Postura ampla com os pés paralelos e joelhos dobrados, usada para resistência e ataques poderosos.",
+        "graduation": 2
+    },
+    {
+        "id": 4,
+        "name": "Fudo-dachi",
+        "translation": "Postura Fixa",
+        "description": "Postura compacta e estável, usada para fornecer uma base forte em combate.",
+        "graduation": 4
+    },
+    {
+        "id": 5,
+        "name": "Sanchin-dachi",
+        "translation": "Postura de Três Batalhas",
+        "description": "Postura de grande estabilidade, com as pernas ligeiramente flexionadas, usada para o desenvolvimento da força interna e controle.",
+        "graduation": 6
+    },
+    {
+        "id": 6,
+        "name": "Shiko-dachi",
+        "translation": "Postura de Largura",
+        "description": "Similar à Kiba-dachi, mas com os pés mais afastados, proporcionando maior estabilidade e resistência.",
+        "graduation": 7
+    },
+    {
+        "id": 7,
+        "name": "Tzuki-dachi",
+        "translation": "Postura de Soco",
+        "description": "Postura usada para execução de socos, com uma perna à frente e a outra atrás, proporcionando equilíbrio e potência.",
+        "graduation": 2
+    },
+    {
+        "id": 8,
+        "name": "Neko-ashi-dachi",
+        "translation": "Postura de Pé de Gato",
+        "description": "Postura de transição, com peso quase todo sobre uma perna, enquanto a outra fica ligeiramente levantada, usada para movimento e ataque rápido.",
+        "graduation": 5
+    },
+    {
+        "id": 9,
+        "name": "Seiza",
+        "translation": "Postura Sentada",
+        "description": "Posição tradicional de sentar, com os calcanhares próximos ao corpo, usada principalmente para cerimônias e práticas de respiração.",
+        "graduation": 1
+    },
+    {
+        "id": 10,
+        "name": "Mae-geri",
+        "translation": "Postura do Soco Frontal",
+        "description": "Postura usada ao realizar o chute frontal, com um pé avançado e o outro atrás para estabilidade.",
+        "graduation": 1
+    }
+]
