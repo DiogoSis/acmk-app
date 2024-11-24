@@ -6,10 +6,10 @@ const MenuScreen = () => {
   const navigation = useNavigation();
   const menuItems = [
     { label: 'Graduação', screen: 'Graduation' },
-    { label: 'Katas', screen: 'Katas' }, // Substitua pela tela correspondente
-    { label: 'Bases', screen: 'Bases' }, // Substitua pela tela correspondente
-    { label: 'Ataques', screen: 'Attacks' }, // Substitua pela tela correspondente
-    { label: 'Defesas', screen: 'Defenses' }, // Substitua pela tela correspondente
+    { label: 'Katas', screen: 'Katas' }, 
+    // { label: 'Bases', screen: 'Bases' }, 
+    // { label: 'Ataques', screen: 'Attacks' }, 
+    // { label: 'Defesas', screen: 'Defenses' }, 
   ];
 
   return (
@@ -18,7 +18,7 @@ const MenuScreen = () => {
         <TouchableOpacity
           key={index}
           style={styles.menuItem}
-          onPress={() => navigation.navigate(item.screen)} // Navega para a tela correspondente
+          onPress={() => navigation.navigate(item.screen)} 
         >
           <Text style={styles.menuText}>{item.label}</Text>
         </TouchableOpacity>

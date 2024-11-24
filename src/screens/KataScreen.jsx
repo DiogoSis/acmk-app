@@ -7,8 +7,8 @@ import {
   TouchableOpacity,
 } from "react-native";
 import KataDetailCard from "../components/KataDetailCard";
-import kataData from "../static/kata.json"; // Importa os katas
-import graduationData from "../static/graduation.json"; // Importa as graduações
+import kataData from "../static/kata.json"; 
+import graduationData from "../static/graduation.json"; 
 
 export default function KataScreen() {
   const [selectedKata, setSelectedKata] = useState(null);

@@ -1,6 +1,6 @@
 import React from "react";
 import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
-import colors from "../styles/colors"; // Certifique-se de que 'colors' contém as cores adequadas
+import colors from "../styles/colors"; 
 
 export default function GraduationDetailCard({
   graduation,
