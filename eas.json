@@ -4,9 +4,7 @@
   },
   "build": {
     "android": {
-      "release": {
-        "distribution": "internal"
-      }
+      "release": {}
     }
   },
   "submit": {

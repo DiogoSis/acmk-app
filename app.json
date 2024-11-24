@@ -6,7 +6,6 @@
     "orientation": "portrait",
     "icon": "./assets/acmk-icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/acmk-logo.png",
       "resizeMode": "contain",
@@ -21,19 +20,10 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "versionCode": 1,
-      "permissions": [
-        "CAMERA",
-        "ACCESS_FINE_LOCATION"
-      ]
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "1ba85f10-2e32-4a3f-a8d5-3bfcca8803ff"
-      }
     }
   }
 }
