@@ -16,19 +16,24 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.acmk.app", 
+      "package": "com.acmk.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "versionCode": 1,  
+      "versionCode": 1,
       "permissions": [
-        "CAMERA",  
-        "ACCESS_FINE_LOCATION"  
+        "CAMERA",
+        "ACCESS_FINE_LOCATION"
       ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1ba85f10-2e32-4a3f-a8d5-3bfcca8803ff"
+      }
     }
   }
 }
