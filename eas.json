@@ -1,22 +1,11 @@
 {
   "cli": {
-    "version": ">= 13.4.1",
-    "appVersionSource": "remote"
+    "version": ">= 13.4.1"
   },
   "build": {
     "android": {
       "release": {
-        "distribution": "store"
-      },
-      "development": {
-        "developmentClient": true,
         "distribution": "internal"
-      },
-      "preview": {
-        "distribution": "internal"
-      },
-      "production": {
-        "autoIncrement": true
       }
     }
   },
